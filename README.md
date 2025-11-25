@@ -45,28 +45,35 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🌻+Captura+Interfaz+Grafica+🌻" alt="Typing SVG" /></a>
 
+### *`Funciones del programa`* 
 
-> *`Ejercicio 1 Pagina 400`*
-> ![Ejercicio 1](https://github.com/user-attachments/assets/b2d5d08b-12f6-4488-a450-0e34d01cdbd7)
+> *`Agregar amigo`*
+> 
+> ![e3d607d3-3a1a-4183-baa6-1e4253673920](https://github.com/user-attachments/assets/3e264a92-c004-400a-bd52-63fcf13f9497)
 
-
-
-
-
-> >  *`Ejercicio 2 Pagina 406`*
-> > ![Ejercicio 2](https://github.com/user-attachments/assets/7bb5502e-c789-41fa-9400-e981171357bc)
-
+> >  *`Eliminar amigo`*
+> > 
+> > ![3139b5ba-3e54-4562-ad8c-1ad4a5a2bb58](https://github.com/user-attachments/assets/c568963e-3212-462b-b1ea-d7c050465081)
 
 
-> > > *`Ejercicio 3 Pagina 412`*
-> > <img width="657" height="254" alt="Ejercicio 3" src="https://github.com/user-attachments/assets/165b4d2a-15c8-4892-9a91-7a9ab0fa853d" />
 
-> > > > *`Ejercicio 4 Pagina 418`*
+
+> > > *`Editar amigo`*
+> > >
+> > > ![88db61f9-5b9d-41f3-90f2-5b5f534cdbe9](https://github.com/user-attachments/assets/b0f9a286-b460-4e8a-bfd9-8743608919ed)
+
+
+> > > > *`Leer amigo`*
 > > > > 
-> > > > <img width="642" height="268" alt="Ejercicio 4" src="https://github.com/user-attachments/assets/b696272c-a5a0-4024-a9cf-aa344dcf90a5" />
+> > > > ![f79d06f4-241f-4f1f-8b0a-9e6672e27a13](https://github.com/user-attachments/assets/2568ab9c-d86e-4ec6-8152-0a6f778c8b3b)
 
-> > > > > *`Ejercicio 5 Pagina 427`*
-> > > > > <img width="1147" height="758" alt="Ejercicio 5" src="https://github.com/user-attachments/assets/c64eaa1e-7d28-46f5-a5d5-8c1de6d3eab8" />
+
+> > > > > *`Manejo de Exxcepciones: Agregar incorrectamente a un amigo`*
+> > > > >
+> > > > > ![e8cf640c-18e7-4a65-ae58-bbbaee2a6663](https://github.com/user-attachments/assets/96bf8abc-54fb-4394-8f58-f56d7d255745)
+
+> > > > > ![05036fa7-2acb-41ef-a056-7b333fac015e](https://github.com/user-attachments/assets/b321e50e-8e40-4b24-8478-131f7adb060d)
+
 
 
 
