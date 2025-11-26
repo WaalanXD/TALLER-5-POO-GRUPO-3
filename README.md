@@ -31,15 +31,18 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=🗒️+UML+Diagrama+de+clase+🗒️" alt="Typing SVG" /></a>
 
-> *`Ejercicio 1 Pagina 400`*
->  <img width="1960" height="1080" alt="UML Ejercicio 1 Actividad 4" src="https://github.com/user-attachments/assets/a15660d6-f707-4f20-b145-22de790a5d6e" />
+> *`Taller 5`*
+>  
+> <img width="1960" height="1080" alt="Diagrama de Clases Actividad 5" src="https://github.com/user-attachments/assets/8c61211a-490d-48ad-90b1-2dc8dcd85bd4" />
+
 #
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=HEADLINE&duration=3000&pause=500&color=5BDD2B&width=435&height=50&lines=👥+UML+Casos+de+Usos+👥" alt="Typing SVG" /></a>
 
-> *`Ejercicio 1 Pagina 400`*
-> <img width="1651" height="1093" alt="Caso de Uso Ejercicio 1" src="https://github.com/user-attachments/assets/01c27f49-8de5-469e-964d-44dc95568396" />
+> *`Taller 5`*
+> <img width="1986" height="1451" alt="Casos de Uso Actividad 05" src="https://github.com/user-attachments/assets/fe3f5ec6-c97b-47b0-a765-6ad43610e969" />
+
 #
 
 
@@ -74,6 +77,9 @@
 
 > > > > > ![05036fa7-2acb-41ef-a056-7b333fac015e](https://github.com/user-attachments/assets/b321e50e-8e40-4b24-8478-131f7adb060d)
 
+> > > > > > *`Manejo de Exxcepciones: Amigo no encontrado por datos incorrectos`*
+> > > > > >
+> > > > > > ![b4b9cdf0-c205-4e4c-81d1-8bf5d9e97f83](https://github.com/user-attachments/assets/81a167ba-1ea2-47ae-9bc5-2e9df2192b5b)
 
 
 
