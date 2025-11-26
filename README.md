@@ -71,13 +71,13 @@
 > > > > ![f79d06f4-241f-4f1f-8b0a-9e6672e27a13](https://github.com/user-attachments/assets/2568ab9c-d86e-4ec6-8152-0a6f778c8b3b)
 
 
-> > > > > *`Manejo de Exxcepciones: Agregar incorrectamente a un amigo`*
+> > > > > *`Manejo de Excepciones: Agregar incorrectamente a un amigo`*
 > > > > >
 > > > > > ![e8cf640c-18e7-4a65-ae58-bbbaee2a6663](https://github.com/user-attachments/assets/96bf8abc-54fb-4394-8f58-f56d7d255745)
 
 > > > > > ![05036fa7-2acb-41ef-a056-7b333fac015e](https://github.com/user-attachments/assets/b321e50e-8e40-4b24-8478-131f7adb060d)
 
-> > > > > > *`Manejo de Exxcepciones: Amigo no encontrado por datos incorrectos`*
+> > > > > > *`Manejo de Excepciones: Amigo no encontrado por datos incorrectos`*
 > > > > > >
 > > > > > > ![b4b9cdf0-c205-4e4c-81d1-8bf5d9e97f83](https://github.com/user-attachments/assets/81a167ba-1ea2-47ae-9bc5-2e9df2192b5b)
 
